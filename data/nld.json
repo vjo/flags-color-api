@@ -1,0 +1,9 @@
+{
+  "county": "Netherlands",
+  "country_code": "nld",
+  "rgb": [{ "r": 174, "g": 28, "b": 40 },
+          { "r": 255, "g": 255, "b": 255 },
+          { "r": 33, "g": 70, "b": 139}],
+  "hex": ["#AE1C28", "#FFFFFF", "#21468B"],
+  "pantone": ["187 C", "White", "10249 C"]
+}
