@@ -1,0 +1,9 @@
+{
+  "county": "France",
+  "country_code": "fra",
+  "rgb": [{ "r": 0, "g": 85, "b": 164 },
+          { "r": 255, "g":255, "b":255 },
+          { "r": 239, "g": 65, "b": 53}],
+  "hex": ["#0055A4", "#FFFFFF", "#EF4135"],
+  "pantone": ["Reflex Blue C", "White", "Red 032 C"]
+}
