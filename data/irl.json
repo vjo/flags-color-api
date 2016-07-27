@@ -1,0 +1,9 @@
+{
+  "country": "Ireland",
+  "country_code": "irl",
+  "rgb": [{ "r": 22, "g": 155, "b": 98 },
+          { "r": 255, "g": 255, "b":255 },
+          { "r": 255, "g": 136, "b": 62}],
+  "hex": ["#169B62", "#FFFFFF", "#FF883E"],
+  "pantone": ["347 U", "White", "151 U"]
+}
