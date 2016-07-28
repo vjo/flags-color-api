@@ -1,0 +1,23 @@
+{
+  "name": "flags-color-api",
+  "version": "0.0.1",
+  "description": "Flags Color API is a JSON API that given a country_code, let you get the colors of the country flag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjo/flags-color-api.git"
+  },
+  "keywords": [
+    "flag",
+    "color"
+  ],
+  "author": "Victor Jolissaint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjo/flags-color-api/issues"
+  },
+  "homepage": "https://github.com/vjo/flags-color-api#readme"
+}
