@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vjo/flags-color-api/issues"
   },
-  "homepage": "https://github.com/vjo/flags-color-api#readme"
+  "homepage": "https://github.com/vjo/flags-color-api#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
