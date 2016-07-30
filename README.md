@@ -1,4 +1,4 @@
-# Work In Progress - Fags Color API
+# Fags Color API
 
 Flags Color API is a JSON API that given an [ISO 3166](http://www.iso.org/iso/home/standards/country_codes.htm) `country_code`, let you get:
 * `country_name`: Country name (English)
@@ -9,7 +9,7 @@ Flags Color API is a JSON API that given an [ISO 3166](http://www.iso.org/iso/ho
 
 Example:
 ```shell
-curl domain.tld/country/fra
+curl domain.tld/flags/fra
 ```
 ```json
 {
