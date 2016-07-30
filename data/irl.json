@@ -1,5 +1,5 @@
 {
-  "country": "Ireland",
+  "country_name": "Ireland",
   "country_code": "irl",
   "rgb": [{ "r": 22, "g": 155, "b": 98 },
           { "r": 255, "g": 255, "b":255 },

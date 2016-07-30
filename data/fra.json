@@ -1,5 +1,5 @@
 {
-  "county": "France",
+  "country_name": "France",
   "country_code": "fra",
   "rgb": [{ "r": 0, "g": 85, "b": 164 },
           { "r": 255, "g":255, "b":255 },

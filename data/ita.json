@@ -1,5 +1,5 @@
 {
-  "country": "Italy",
+  "country_name": "Italy",
   "country_code": "ita",
   "rgb": [{ "r": 0, "g": 146, "b": 70 },
           { "r": 241, "g":242, "b":241 },
