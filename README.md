@@ -9,7 +9,7 @@ Flags Color API is a JSON API that given an [ISO 3166](http://www.iso.org/iso/ho
 
 Example:
 ```shell
-curl domain.tld/flags/fra
+curl https://flags-color-api-dkryeshgks.now.sh/flags/fra
 ```
 ```json
 {
