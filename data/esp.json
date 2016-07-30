@@ -1,0 +1,8 @@
+{
+  "country_name": "Spain",
+  "country_code": "esp",
+  "rgb": [{ "r": 170, "g": 21, "b": 27 },
+          { "r": 241, "g": 191, "b": 0 }],
+  "hex": ["#AA151B", "#F1BF00"],
+  "pantone": ["7628 C", "7406 C"]
+}
