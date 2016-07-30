@@ -1,0 +1,9 @@
+{
+  "country_name": "United States of America",
+  "country_code": "usa",
+  "rgb": [{ "r": 255, "g": 255, "b": 255 },
+          { "r": 193, "g": 19, "b": 61 },
+          { "r": 0, "g": 38, "b": 99 }],
+  "hex": ["#FFFFFF", "#C1133D", "#002663"],
+  "pantone": ["White", "193 C", "281 C"]
+}
