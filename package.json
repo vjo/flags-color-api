@@ -4,7 +4,8 @@
   "description": "Flags Color API is a JSON API that given a country_code, let you get the colors of the country flag",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
