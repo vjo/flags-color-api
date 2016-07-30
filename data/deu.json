@@ -1,0 +1,9 @@
+{
+  "country_name": "Germany",
+  "country_code": "deu",
+  "rgb": [{ "r": 0, "g": 0, "b": 0 },
+          { "r": 255, "g": 0, "b": 0 },
+          { "r": 255, "g": 204, "b": 0 }],
+  "hex": ["#000000", "#FF0000", "#FFCC00"],
+  "pantone": ["Black", "485 C", "7405 C"]
+}
