@@ -37,7 +37,12 @@ const returnAllFlags = (response) => {
   });
 };
 
+const getCountryList = () => {
+  return fs.readdirSync(DIR);
+};
+
 module.exports = {
   returnAllFlags,
-  returnFlag
+  returnFlag,
+  getCountryList
 };

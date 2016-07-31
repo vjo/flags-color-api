@@ -6,6 +6,17 @@ const flags = require('./flags');
 const app = express();
 const port = 3000;
 
+app.get('/', (request, response) => {
+  const list = flags.getCountryList();
+  let html = '<html><body><h1>Flags Color API</h1><p>Available flags: <ul>';
+  for (let i in list) {
+    let cc = list[i].split('.')[0];
+    html += `<li><a href="/flags/${cc}">${cc}</a></li>`
+  }
+  html += '</ul></p></body></html>';
+  response.send(html);
+});
+
 app.get('/flags', (request, response) => {
   flags.returnAllFlags(response);
 });
